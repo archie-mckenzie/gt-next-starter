@@ -26,7 +26,7 @@ export default function Home() {
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <div>
+          <div className="text-black">
             <LocaleSelector/>
           </div>
           <a
